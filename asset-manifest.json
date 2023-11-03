@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProductPage-devtown/static/css/main.f400835b.css",
-    "main.js": "/ProductPage-devtown/static/js/main.b9361005.js",
+    "main.js": "/ProductPage-devtown/static/js/main.77510c29.js",
     "static/media/headerbg.jpg": "/ProductPage-devtown/static/media/headerbg.9bd1376a6f6fb407e883.jpg",
     "static/media/sofa1.jpg": "/ProductPage-devtown/static/media/sofa1.84811bf5992b4fa1a3ed.jpg",
     "static/media/sofa2.jpg": "/ProductPage-devtown/static/media/sofa2.643d6cb4bc090a1c8bea.jpg",
@@ -32,10 +32,10 @@
     "static/media/wireless-01.png": "/ProductPage-devtown/static/media/wireless-01.1a76d777727c50ca0294.png",
     "index.html": "/ProductPage-devtown/index.html",
     "main.f400835b.css.map": "/ProductPage-devtown/static/css/main.f400835b.css.map",
-    "main.b9361005.js.map": "/ProductPage-devtown/static/js/main.b9361005.js.map"
+    "main.77510c29.js.map": "/ProductPage-devtown/static/js/main.77510c29.js.map"
   },
   "entrypoints": [
     "static/css/main.f400835b.css",
-    "static/js/main.b9361005.js"
+    "static/js/main.77510c29.js"
   ]
 }
